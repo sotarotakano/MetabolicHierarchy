@@ -10,6 +10,16 @@ thoroughly studied and documented in Takano et al., 2023 biorxiv (doi:).
 All the codes are compatible with cobrapy (Ebrahim et al., 2013 BMC Systems Biol.), 
 BiGG models (Norsigian et al., 2020 Nucleic Acids Res.), and CAFBA (Mori et al., 2016 PLoS Comput. Biol.). 
 
+## Requirements
+Those packages can be installed by pip or anaconda.
+
+python (> 3.7)
+
+cobra
+
+You need to download CAFBAFY.py and place it in ./routine_functions
+It's available at ###.
+
 ## Usage
 ### randomwalks.py
 The users can first start from 'randomwalks.py' to generate randomly mutated models. 
