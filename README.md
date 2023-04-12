@@ -13,12 +13,15 @@ BiGG models (Norsigian et al., 2020 Nucleic Acids Res.), and CAFBA (Mori et al.,
 ## Requirements
 Those packages can be installed by pip or anaconda.
 
-python (> 3.7)
+- python (> 3.7)
 
-cobra
+- cobra
 
-You need to download CAFBAFY.py and place it in ./routine_functions
-It's available at ###.
+You need to download 
+
+- CAFBAFY.py 
+
+and place it in ./routine_functions. It's available at ###.
 
 ## Usage
 ### randomwalks.py
