@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+__author__ = 'Sotaro Takano and Djordje Bajic'
+__version__ = '1.0.1'
 
 from os.path import join
 import os
