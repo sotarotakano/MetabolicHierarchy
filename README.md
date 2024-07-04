@@ -21,7 +21,7 @@ You need to download
 
 - CAFBAFY.py 
 
-and place it in ./routine_functions. It's available at ###.
+and place it in ./routine_functions. It's available at https://github.com/jccvila/Estrelaetal2021/tree/main/FBA_Simulations.
 
 ## Usage
 ### randomwalks.py
