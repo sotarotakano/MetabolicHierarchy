@@ -30,7 +30,7 @@ The ancestral model can be set by -m option (default is iJO1366) and the univers
 Universal model is used as a reaction pool for adding the reactions, the default is CUiJO1366.
 If you want to generate 100 mutated models by 1000 random walks using 5 threads, run the program as follows.
 
-```python
+```bash
 python randomwalks.py -n 100 -r 1000 -t 5
 ```
 
@@ -39,7 +39,7 @@ during random walks are saved in './[date]/results'. Those results are used for 
 
 ### GrowthRank.py
 Converting the changes in growth rate to the changes in preference rank during randomwalks.
-```python
+```bash
 python GrowthRank.py -i [result directory]
 ```
 Running this code returns the preference rank changes for a given set of results in './[date]/rank result'.
