@@ -19,7 +19,7 @@ Those packages can be installed by pip or anaconda.
 
 You need to download 
 
-- CAFBAFY.py ([jccvila]https://github.com/jccvila)
+- CAFBAFY.py ([jccvila](https://github.com/jccvila)).
 
 and place it in ./routine_functions. It's available at https://github.com/jccvila/Estrelaetal2021/tree/main/FBA_Simulations.
 
